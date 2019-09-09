@@ -1,0 +1,109 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="/usr/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.7/site-packages" type="simple" />
+            <root url="file:///usr/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/-1247971762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (qrcodetest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="$USER_HOME$/projects/qrcodetest/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/projects/qrcodetest/.venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/94945025" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/projects/qrcodetest" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (InstaFollowerCheck)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/PycharmProjects/InstaFollowerCheck/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/InstaFollowerCheck/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/InstaFollowerCheck/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/InstaFollowerCheck/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/2130515004" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/InstaFollowerCheck" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (fwCheck)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/PycharmProjects/fwCheck/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/fwCheck/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/fwCheck/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/fwCheck/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/108330340" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/fwCheck" />
+    </jdk>
+  </component>
+</application>
